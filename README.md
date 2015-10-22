@@ -36,6 +36,3 @@ yii migrate
 ~~~
 php -S localhost:80
 ~~~
-
-==========
-# testwork
